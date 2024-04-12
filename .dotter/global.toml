@@ -1,0 +1,20 @@
+[helpers]
+
+[default]
+depends = []
+
+[default.files]
+LICENSE = ""
+"README.md" = ""
+
+[default.variables]
+
+[alacritty.files]
+alacritty = "~/.config/alacritty"
+
+[zellij.files]
+zellij = "~/.config/zellij"
+
+[fish.files]
+fish = "~/.config/zellij"
+
